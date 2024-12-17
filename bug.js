@@ -1,0 +1,1 @@
+In React Router Dom v6, navigating with a programmatic approach using useNavigate hook might lead to unexpected behavior if not handled correctly within asynchronous operations or conditional rendering. For example, if you are making an API call before navigation, the navigation might not happen as expected because the state might change before the navigation is triggered.
