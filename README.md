@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in React Router Dom v6 involving navigation within asynchronous operations. The `bug.js` file showcases the problem where navigation fails due to improper handling of asynchronous tasks before the navigation call.  `bugSolution.js` presents the corrected approach.
